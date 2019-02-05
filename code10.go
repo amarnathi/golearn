@@ -9,8 +9,8 @@ func main() {
 	x10 = `raw
 string
 	literal`
-//raw string literal meaning , print string as is
+	//raw string literal meaning , print string as is
 
-	fmt.Printf("Value of String is %v\n",x10)
-	
+	fmt.Printf("Value of String is %v\n", x10)
+
 }

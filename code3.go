@@ -8,7 +8,7 @@ var z3 bool = true
 
 func main() {
 
-	s:= fmt.Sprintf("%v%v%v",x3,y3,z3)
+	s := fmt.Sprintf("%v%v%v", x3, y3, z3)
 	fmt.Println(s)
 
 }
