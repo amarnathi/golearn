@@ -22,6 +22,8 @@ func main() {
 		fmt.Println(i, v)
 	}
 
+	fmt.Printf("%T\n", x24)
+
 	//for i := 0; i < len(x24); i++ {
 	//	fmt.Printf("%T\t%v\n", i, i)
 	//}
